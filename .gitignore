@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE (PyCharm, VSCode)
+.idea/
+.vscode/
+*.swp
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Environment Variables
+.env
